@@ -1,6 +1,6 @@
 <div id="header" align="center">
  
- <a href="https://edydev.com" target=”_blank”>
+ <a href="https://edydev.com" target=”_blank” rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/EdyDev-Banner.png" alt="Personal Website" width="400"/>
   </a>
  
