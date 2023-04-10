@@ -44,7 +44,7 @@ I am a Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 - 🪟 I run a Windows archival site called <a href = "https://winlibrary.net">WinLibrary</a>
 
-- 📫:How to reach me: 
+- 📫How to reach me: 
  [![Discord Badge](https://img.shields.io/badge/Discord-gray?style=flat&logo=discord&logoColor=white)](https://discord.com/users/431047233757249537)
  [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/EdyDev76) <a href="mailto: contact@edydev.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
