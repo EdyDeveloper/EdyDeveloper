@@ -93,7 +93,7 @@ I am a Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EdyDeveloper&show_icons=true&theme=radical)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdyDeveloper&type=png&ring=D83B7D&background=141321&fire=F5D647&currStreakLabel=F5D647&currStreakNum=A9FEF7&sideNums=A9FEF7&sideLabels=F5D647&dates=A9FEF7)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdyDeveloper&type=png&ring=D83B7D&background=141321&fire=F5D647&currStreakLabel=F5D647&currStreakNum=A9FEF7&sideNums=A9FEF7&sideLabels=F5D647&dates=A9FEF7)
 
 ---
 
