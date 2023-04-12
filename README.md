@@ -83,7 +83,7 @@ I am a Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
   <a href="https://www.vmware.com/products/workstation-player.html"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/vmwareplayer.png" title="VMware Workstation Player" alt="VMware Workstation Player" height="40"/></a>&nbsp;  <!-- VMware Workstation Player -->
   <a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/vmwareworkstation.png" title="VMware Workstation Pro" alt="VMware Workstation Pro" height="40"/></a>&nbsp;  <!-- VMware Workstation Pro -->
   <a href="https://winscp.net/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/winscp.png" title="WinSCP" alt="WinSCP" height="40"/></a>&nbsp;  <!-- WinSCP -->
-  <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/hyper-v.webp" title="Hyper-V" alt="Hyper-V" height="40"/></a>&nbsp;  <!-- Hyper-V -->
+  <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/hyper-v.webp" title="Hyper-V" alt="Hyper-V" height="40"/></a>&nbsp;  <!-- Hyper-V -->
   <a href="#"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/andmanymanymore.png" title="And More" alt="And many more!" height="40"/></a>&nbsp;
 </div>
  
