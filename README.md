@@ -22,6 +22,8 @@
 </div>
  
  <img src="https://komarev.com/ghpvc/?username=EdyDeveloper&style=flat-square&logo=appveyor&color=d91b5c" alt="Profile Views"/>
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
  
  <h1>
   Hey there
