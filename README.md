@@ -38,7 +38,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Romania.
+I am a Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the planet Earth.
 
 - 🖥️ I’m a big computer nerd and love anything and everything related to computers and electronics in general.
 
