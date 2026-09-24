@@ -53,43 +53,6 @@ I am a Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
   </a>
   </a>
   
----
-  
-### :hammer_and_wrench: Languages and Tools :
- <div>
-   <a href="https://dev.java/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/java.png" title="Java" alt="Java" height="40"/></a>&nbsp; <!-- Java -->
-   <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/CPP.png" title="C++" alt="C++" height="40"/></a>&nbsp; <!-- C++ -->
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/C.png" title="C" alt="C" height="40"/></a>&nbsp; <!-- C -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/Csharp.png" title="C#" alt="C#" height="40"/></a>&nbsp; <!-- C# -->
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/python.webp" title="Python" alt="Python" height="40"/></a>&nbsp;  <!-- Python -->
-  <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/sass.png" title="SASS" alt="SASS" height="40"/></a>&nbsp;  <!-- SASS -->
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/css3.png"  title="CSS" alt="CSS"  height="40"/></a>&nbsp;  <!-- CSS -->
-  <a href="https://html.spec.whatwg.org/multipage/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/html5.png" title="HTML" alt="HTML" height="40"/></a>&nbsp; <!-- HTML -->
-  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40"/></a>&nbsp; <!-- JS -->
-  <a href="https://dotnet.microsoft.com/en-us/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/dotnet7.png" title=".NET" alt=".NET" height="40"/></a>&nbsp; <!-- .NET -->
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/mysql.png" title="MySQL"  alt="MySQL" height="40"/></a>&nbsp; <!-- MySQL -->
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/nodejs.png" title="NodeJS" alt="NodeJS" height="40"/></a>&nbsp; <!-- Node -->
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/git.png" title="Git" alt="Git" width="40" height="40"/></a>&nbsp; <!-- Git -->
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/vscode.png" title="Visual Studio Code" alt="Visual Studio Code" height="40"/></a>&nbsp; <!-- VSCode -->
-  <a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/android-studio.png" title="Android Studio" alt="Android Studio" height="40"/></a>&nbsp;  <!-- Android Studio -->
-  <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/gcloud.png" title="Google Cloud" alt="Google Cloud" height="40"/></a>&nbsp;  <!-- Google Cloud -->
-  <a href="https://azure.microsoft.com/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/azure.png" title="Microsoft Azure" alt="Microsoft Azure" height="40"/></a>&nbsp;  <!-- Microsoft Azure -->
-  <a href="https://windows.microsoft.com/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/windows.png" title="Microsoft Windows" alt="Microsoft Windows" height="40"/></a>&nbsp;  <!-- Microsoft Windows -->
-  <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/ubuntu.svg" title="Ubuntu" alt="Ubuntu" height="40"/></a>&nbsp;  <!-- Ubuntu -->
-  <a href="https://www.nginx.com/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/nginx.png" title="Nginx" alt="Nginx" height="40"/></a>&nbsp;  <!-- Nginx -->
-  <a href="https://www.iis.net/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/IIS.png" title="Microsoft IIS" alt="Microsoft IIS" height="40"/></a>&nbsp;  <!-- MS Internet Information Services -->
-  <a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/intellij-idea.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" height="40"/></a>&nbsp;  <!-- IntelliJ IDEA -->
-  <a href="https://www.jetbrains.com/pycharm/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/pycharm.svg" title="PyCharm" alt="PyCharm" height="40"/></a>&nbsp;  <!-- PyCharm -->
-  <a href="https://termius.com/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/termius.svg" title="Termius" alt="Termius" height="40"/></a>&nbsp;  <!-- Termius -->
-  <a href="https://unity.com/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/unitynew.svg" title="Unity" alt="Unity" height="40"/></a>&nbsp;  <!-- Unity -->
-  <a href="https://www.vmware.com/products/workstation-player.html"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/vmwareplayer.png" title="VMware Workstation Player" alt="VMware Workstation Player" height="40"/></a>&nbsp;  <!-- VMware Workstation Player -->
-  <a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/vmwareworkstation.png" title="VMware Workstation Pro" alt="VMware Workstation Pro" height="40"/></a>&nbsp;  <!-- VMware Workstation Pro -->
-  <a href="https://winscp.net/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/winscp.png" title="WinSCP" alt="WinSCP" height="40"/></a>&nbsp;  <!-- WinSCP -->
-  <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/hyper-v.webp" title="Hyper-V" alt="Hyper-V" height="40"/></a>&nbsp;  <!-- Hyper-V -->
-  <a href="#"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/andmanymanymore.png" title="And More" alt="And many more!" height="40"/></a>&nbsp;
-</div>
- 
----
 
 ### 🔥 My Stats :
 
