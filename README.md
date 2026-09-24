@@ -57,14 +57,3 @@ I am a Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 ### 🔥 My Stats :
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdyDeveloper&type=png&ring=D83B7D&background=141321&fire=F5D647&currStreakLabel=F5D647&currStreakNum=A9FEF7&sideNums=A9FEF7&sideLabels=F5D647&dates=A9FEF7)
-
----
-
-### 🏗️ Some of my active projects :
-
-<div>
-   <img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/EDDV.svg" title="EDDV" alt="EDDV" height="60"/>&nbsp;&nbsp;&nbsp;  <!-- EDDV -->
-   <a href="https://anime.edydev.com/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/EDDV%20Anime%20Banner.png" title="EDDV Anime" alt="EDDV Anime" height="60"/></a>&nbsp;&nbsp;&nbsp;  <!-- EDDV Anime -->
-   <a href="https://winlibrary.net/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/WinLibrary.png" title="WinLibrary" alt="WinLibrary" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <!-- WinLibrary -->
-   <a href="https://daviddoci.com/"><img src="https://raw.githubusercontent.com/EdyDeveloper/EdyDeveloper/main/Elements/Logo-D%20Bubble.png" title="David Doci Website" alt="David Doci Website" height="60"/></a>&nbsp;&nbsp;&nbsp;  <!-- David Doci Website -->
- </div>
